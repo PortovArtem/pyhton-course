@@ -20,3 +20,11 @@ def even(string):
         if i%2==0:
            result+= str(A[i]) + ' '
     return result
+
+def blabla():
+    return 'HELLO GIT'
+
+def blabla_2():
+    return 'HELLO GIT'\
+
+
