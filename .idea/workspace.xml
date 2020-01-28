@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51feb112-2e1c-4584-862b-4f7f5466c6f7" name="Default Changelist" comment="" />
+    <list default="true" id="51feb112-2e1c-4584-862b-4f7f5466c6f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
@@ -22,7 +33,111 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\pyhton-course\rehearsal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_if_AE.py">
+    <configuration name="if_F" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyhton-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Projects\pyhton-course\rehearsal\if_F.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="if_N" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyhton-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rehearsal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rehearsal/if_N.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_if_AE.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyhton-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rehearsal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/rehearsal/test_if_AE.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_if_Ab.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyhton-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rehearsal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/rehearsal/test_if_Ab.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_if_N.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyhton-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rehearsal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/rehearsal/test_if_N.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_if_AE.py" />
+        <item itemvalue="Python tests.pytest in test_if_Ab.py" />
+        <item itemvalue="Python.if_N" />
+        <item itemvalue="Python tests.pytest in test_if_N.py" />
+        <item itemvalue="Python.if_F" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,28 +162,96 @@
       <option name="presentableId" value="Default" />
       <updated>1579184863631</updated>
     </task>
+    <task id="LOCAL-00001" summary="added if_AB.py">
+      <created>1580222849055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580222849055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added if_AB.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added if_AB.py" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="100" width="774" height="847" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580222469245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="774" height="847" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580222469245" />
+    <state x="235" y="231" key="#xdebugger.evaluate" timestamp="1580221725175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="235" y="231" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1580221725175" />
+    <state x="354" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579617592731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="354" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1579617592731" />
+    <state x="147" y="119" key="CommitChangelistDialog2" timestamp="1580222847227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="147" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580222847227" />
     <state x="790" y="297" key="FileChooserDialogImpl" timestamp="1579185136214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579185136214" />
-    <state x="513" y="184" key="SettingsEditor" timestamp="1579185252843">
+    <state width="936" height="347" key="GridCell.Tab.0.bottom" timestamp="1580224537483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="513" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579185252843" />
-    <state x="602" y="275" key="Vcs.Push.Dialog.v2" timestamp="1579185160929">
+    <state width="936" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state width="936" height="347" key="GridCell.Tab.0.center" timestamp="1580224537483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="602" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579185160929" />
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1579184875178">
+    <state width="936" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state width="936" height="347" key="GridCell.Tab.0.left" timestamp="1580224537483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579184875178" />
-    <state x="821" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579185194625">
+    <state width="936" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state width="936" height="347" key="GridCell.Tab.0.right" timestamp="1580224537483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="821" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579185194625" />
+    <state width="936" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1580224537483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state width="936" height="347" key="GridCell.Tab.1.center" timestamp="1580224537483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state width="936" height="347" key="GridCell.Tab.1.left" timestamp="1580224537483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state width="936" height="347" key="GridCell.Tab.1.right" timestamp="1580224537483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580224537483" />
+    <state x="513" y="184" key="SettingsEditor" timestamp="1580218950339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580218950339" />
+    <state x="602" y="275" key="Vcs.Push.Dialog.v2" timestamp="1580222853549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580222853549" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1580218740854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580218740854" />
+    <state x="821" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580222775711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580222775711" />
+    <state x="53" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580221733947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="53" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1580221733947" />
+    <state x="266" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1579618557089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="266" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579618557089" />
   </component>
 </project>
