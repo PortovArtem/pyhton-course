@@ -25,6 +25,6 @@ def blabla():
     return 'HELLO GIT'
 
 def blabla_2():
-    return 'HELLO GIT'\
+    return 'HELLO GIT'
 
 
